@@ -1,1 +1,0 @@
-this is constant for repos, so put into the git ignore directory.
