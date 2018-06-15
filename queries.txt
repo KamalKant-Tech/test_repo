@@ -1,1 +1,2 @@
 This is query file.
+Updated version of query from local repository.
